@@ -5,7 +5,7 @@ load_dotenv()
 
 API_ID = os.getenv("API_ID", "14202110").strip()
 API_HASH = os.getenv("API_HASH", "45f3a3ac8effd88e42aeabe3cfe4f520").strip()
-BOT_TOKEN = os.getenv("BOT_TOKEN", "6110316334:AAFO9skFqGY_fEz8rHx_WXIFxj1s34MwfQg").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 OWNER_ID = list(map(int, os.getenv("OWNER_ID", "5380004155").split()))
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
 MUST_JOIN = os.getenv("MUST_JOIN", "TheNight_City")
