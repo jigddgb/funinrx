@@ -42,7 +42,7 @@ buttons_ques = [
         InlineKeyboardButton("ᴛᴇʟᴇᴛᴛʜᴏɴ", callback_data="telethon"),
     ],
     [
-        InlineKeyboardButton("⋰ᴘʏʀᴏ-ʙᴏᴛ⋱", callback_data="pyrogram_bot"),
+        InlineKeyboardButton("ᴘʏʀᴏ-ʙᴏᴛ", callback_data="pyrogram_bot"),
         InlineKeyboardButton("ᴛᴇʟᴇ-ʙᴏᴛ", callback_data="telethon_bot"),
     ],
 ]
