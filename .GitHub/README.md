@@ -3,10 +3,10 @@
 </p>
 
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
-  <a href="https://github.com/Itzvenomo"><img alt="Website" src="https://img.shields.io/badge/𝐌𝐑 𝐀𝐘𝐔𝐒𝐇-blue"></a>
+  <a href="https://github.com/venombolteop"><img alt="Website" src="https://img.shields.io/badge/𝐌𝐑 𝐀𝐘𝐔𝐒𝐇-blue"></a>
  
-[![Stars](https://img.shields.io/github/stars/Itzvenomo/String?style=social)](https://github.com/Itzvenomo/String/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Itzvenomo/String?style=social)](https://github.com/Itzvenomo/String/fork)
+[![Stars](https://img.shields.io/github/stars/jigddgb/funinrx?style=social)](https://github.com/jigddgb/funinrx/stargazers)
+  [![Forks](https://img.shields.io/github/forks/jigddgb/funinrx?style=social)](https://github.com/jigddgb/funinrx/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
@@ -31,7 +31,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 💝](https://telegram.me/Venom_stringbot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 💝](https://telegram.me/Venom_string_robot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -45,6 +45,6 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝐌𝐑 𝐀𝐘𝐔𝐒𝐇](https://github.com/Itzvenomo)
+- » [𝐌𝐑 𝐀𝐘𝐔𝐒𝐇](https://github.com/venombolteop)
 - » [Pyrogram Devs](https://github.com/pyrogram) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 - » [LonamiWebs](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
