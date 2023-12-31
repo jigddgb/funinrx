@@ -64,9 +64,7 @@ async def generate_session(bot: Client, msg: Message, telethon=False, old_pyro: 
         ty += " ʙᴏᴛ"
     await msg.reply(f"» ᴛʀʏɪɴɢ ᴛᴏ sᴛᴀʀᴛ **{ty}** sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ...")
     user_id = msg.chat.id
-    api_id_msg = await bot.ask(user_id, "๏ ʙᴀʙᴇ ɪᴀᴍ ꜱᴛᴀʀᴛɪɴɢ ꜱᴇꜱꜱɪᴏɴ ɢᴇɴᴇʀᴀᴛɪᴏɴ ꜰᴏʀ ʏᴏᴜ !
-
-๏ꜱᴇɴᴅ ᴍᴇ ʏᴏᴜʀ **ᴀᴩɪ-ɪᴅ** ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ !  ๏ɪꜰ ʏᴏᴜ ᴅᴏɴᴛ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪꜱ ᴛʜɪꜱ ᴜꜱᴇ : My.telegram.org ", filters=filters.text)
+    api_id_msg = await bot.ask(user_id, "๏ ʙᴀʙᴇ ɪᴀᴍ ꜱᴛᴀʀᴛɪɴɢ ꜱᴇꜱꜱɪᴏɴ ɢᴇɴᴇʀᴀᴛɪᴏɴ ꜰᴏʀ ʏᴏᴜ !๏ꜱᴇɴᴅ ᴍᴇ ʏᴏᴜʀ **ᴀᴩɪ-ɪᴅ** ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ !  ๏ɪꜰ ʏᴏᴜ ᴅᴏɴᴛ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪꜱ ᴛʜɪꜱ ᴜꜱᴇ : My.telegram.org ", filters=filters.text)
     if await cancelled(api_id_msg):
         return
     try:
